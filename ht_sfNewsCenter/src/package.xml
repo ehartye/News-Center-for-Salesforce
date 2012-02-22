@@ -18,7 +18,25 @@
     </types>
     <types>
         <members>*</members>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Chatter_News_Alerts</members>
+        <members>Chatter_News_Alerts/ChatterNewsAlerts_logo.png</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Workflow</name>
     </types>
     <version>23.0</version>
 </Package>
