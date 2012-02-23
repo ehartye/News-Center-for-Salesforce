@@ -4,7 +4,7 @@ global class NCRemotes {
     global static List<string> searchTermSuggest(string qry){
         list<string> suggest = new list<string>();
   
-    //rebase test
+    //fork test
     
     // create the filter text
     String filter = ' like \'%' + String.escapeSingleQuotes(qry) + '%\'';
